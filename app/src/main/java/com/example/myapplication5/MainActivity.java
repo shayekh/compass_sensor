@@ -12,6 +12,8 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+//kkfsrjf
+
 public class MainActivity extends AppCompatActivity implements SensorEventListener {
 
     ImageView compass_img;
